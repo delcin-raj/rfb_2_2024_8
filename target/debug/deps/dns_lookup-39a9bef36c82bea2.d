@@ -1,0 +1,11 @@
+/home/delcin/learning/bpd/BPD-week-4-assignment/target/debug/deps/libdns_lookup-39a9bef36c82bea2.rmeta: /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lib.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/addrinfo.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/nameinfo.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/err.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lookup.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/types.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/hostname.rs
+
+/home/delcin/learning/bpd/BPD-week-4-assignment/target/debug/deps/dns_lookup-39a9bef36c82bea2.d: /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lib.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/addrinfo.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/nameinfo.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/err.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lookup.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/types.rs /home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/hostname.rs
+
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lib.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/addrinfo.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/nameinfo.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/err.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/lookup.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/types.rs:
+/home/delcin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dns-lookup-1.0.8/src/hostname.rs:
